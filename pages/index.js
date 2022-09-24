@@ -1,3 +1,5 @@
+import Nav from "./nav/nav";
+
 // domain.com/
 const Homepage = () => {
   return (
